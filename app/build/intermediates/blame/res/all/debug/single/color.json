@@ -28,11 +28,11 @@
         "source": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\res\\merged\\all\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\res\\merged\\all\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\res\\merged\\all\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
     }
 ]
