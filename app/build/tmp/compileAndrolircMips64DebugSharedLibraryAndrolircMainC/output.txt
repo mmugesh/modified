@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircMips64DebugSharedLibraryAndrolircMainC/output.txt for all output for compileAndrolircMips64DebugSharedLibraryAndrolircMainC.
+compiling androlirc.c successful.
+
+Finished compileAndrolircMips64DebugSharedLibraryAndrolircMainC, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircMips64DebugSharedLibraryAndrolircMainC/output.txt.

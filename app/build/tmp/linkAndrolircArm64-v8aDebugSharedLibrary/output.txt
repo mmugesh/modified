@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircArm64-v8aDebugSharedLibrary/output.txt for all output for linkAndrolircArm64-v8aDebugSharedLibrary.
+linking libandrolirc.so successful.
+
+Finished linkAndrolircArm64-v8aDebugSharedLibrary, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircArm64-v8aDebugSharedLibrary/output.txt.

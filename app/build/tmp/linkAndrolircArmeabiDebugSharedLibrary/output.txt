@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircArmeabiDebugSharedLibrary/output.txt for all output for linkAndrolircArmeabiDebugSharedLibrary.
+linking libandrolirc.so successful.
+
+Finished linkAndrolircArmeabiDebugSharedLibrary, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircArmeabiDebugSharedLibrary/output.txt.

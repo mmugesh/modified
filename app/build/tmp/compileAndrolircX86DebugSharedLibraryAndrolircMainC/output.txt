@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircX86DebugSharedLibraryAndrolircMainC/output.txt for all output for compileAndrolircX86DebugSharedLibraryAndrolircMainC.
+compiling androlirc.c successful.
+
+Finished compileAndrolircX86DebugSharedLibraryAndrolircMainC, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircX86DebugSharedLibraryAndrolircMainC/output.txt.

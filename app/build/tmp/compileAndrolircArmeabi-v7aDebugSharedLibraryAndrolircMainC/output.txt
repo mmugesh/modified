@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircArmeabi-v7aDebugSharedLibraryAndrolircMainC/output.txt for all output for compileAndrolircArmeabi-v7aDebugSharedLibraryAndrolircMainC.
+compiling androlirc.c successful.
+
+Finished compileAndrolircArmeabi-v7aDebugSharedLibraryAndrolircMainC, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/compileAndrolircArmeabi-v7aDebugSharedLibraryAndrolircMainC/output.txt.

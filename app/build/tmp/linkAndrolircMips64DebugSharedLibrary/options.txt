@@ -1,0 +1,22 @@
+-shared
+-Wl,-soname,libandrolirc.so
+-o
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\mips64\\libandrolirc.so"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\1nrgwdp241syuyilw6zn1ot4p\\receive.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\38pwfl3a3f61ticq7z2zcraal\\dump_config.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\48ynjmngobiszj8rtyjth82sn\\release.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\4gpbb4uhl9vwym8v2iu6lxxlh\\config_file.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\5grx80lp36ckgyrijeuxscidw\\input_map.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\6byd4eisr3wlpde806qnq164w\\hw-types.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\9u6952vn96w6rwrfwvwtqt33m\\androlirc.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\b9eroa3py3r8k1cs5ksxo6d2o\\ir_remote.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\cgjaslz3dtqs999653p03uctl\\hw_default.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\e7lo6pnaa42nudbcmr0phqrc4\\irrecord.o"
+"C:\\Users\\Mugesh M\\Downloads\\Androlirc-master1\\app\\build\\intermediates\\objectFiles\\mips64DebugSharedLibrary\\androlircMainC\\n4d2zbqqowx60ggzemmr96tj\\transmit.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\Android\\sdk\\ndk-bundle/platforms/android-21/arch-mips64
+-Wl,--build-id
+-no-canonical-prefixes

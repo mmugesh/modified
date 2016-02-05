@@ -1,0 +1,4 @@
+See file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircMips64DebugSharedLibrary/output.txt for all output for linkAndrolircMips64DebugSharedLibrary.
+linking libandrolirc.so successful.
+
+Finished linkAndrolircMips64DebugSharedLibrary, see full log file:///C:/Users/Mugesh%20M/Downloads/Androlirc-master1/app/build/tmp/linkAndrolircMips64DebugSharedLibrary/output.txt.
